@@ -23,4 +23,4 @@ Provide a note explaining:
 - What are your plans for the future (if you were to keep working on it)
 - Possible problems that are yet to be conquered, preferably with potential solutions.
 
-When you are done please open a pull request to this repo with your solution.
+**When you are done please open a pull request to this repo with your solution.**
